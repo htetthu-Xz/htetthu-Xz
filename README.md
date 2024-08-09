@@ -40,13 +40,13 @@ I'm a passionate developer from Myanamr], focused on Web Developer. I love build
 
 Here are some of my notable projects:
 
-- [**Approval App**]([(https://github.com/Mohts/workflow)]): Approval and E-signature.
-- [**Tech_X_App**]([https://github.com/htetthu-Xz/Tech_X_App]): Learning Platform.
-- [**Easy Pay**]([https://github.com/htetthu-Xz/EasyPay]): Payment Platform.
-- [**Trofy**]([https://github.com/htetthu-Xz/e-comm-pj]): Markentplace Management.
-- [**Vue Movie App**]([https://github.com/htetthu-Xz/movies-store-app]): Movie App PLatform.
-- [**Car Rental**]([[https://github.com/htetthu-Xz/movies-store-app](https://github.com/Kohtet77/CAR_RENTAL_MANAGEMENT_SYSTEM)]): Car Rental Managemant.
-- [**Edu Vista**]([https://github.com/htetthu-Xz/movies-store-app](https://github.com/Kohtet77/CAR_RENTAL_MANAGEMENT_SYSTEM)]): School Management.
+- [**Approval App**]((https://github.com/Mohts/workflow)): Approval and E-signature.
+- [**Tech_X_App**](https://github.com/htetthu-Xz/Tech_X_App): Learning Platform.
+- [**Easy Pay**](https://github.com/htetthu-Xz/EasyPay): Payment Platform.
+- [**Trofy**](https://github.com/htetthu-Xz/e-comm-pj): Markentplace Management.
+- [**Vue Movie App**](https://github.com/htetthu-Xz/movies-store-app): Movie App PLatform.
+- [**Car Rental**](https://github.com/htetthu-Xz/movies-store-app](https://github.com/Kohtet77/CAR_RENTAL_MANAGEMENT_SYSTEM)): Car Rental Managemant.
+- [**Edu Vista**](https://github.com/htetthu-Xz/movies-store-app](https://github.com/Kohtet77/CAR_RENTAL_MANAGEMENT_SYSTEM)): School Management.
 
 ---
 
