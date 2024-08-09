@@ -1,6 +1,6 @@
-# Hi, I'm [Htet Aung Kyaw] 👋
+# Hi, I'm Htet Aung Kyaw 👋
 
-I'm a passionate developer from Myanamr], focused on [Web Developer]. I love building innovative projects and continuously learning new technologies.
+I'm a passionate developer from Myanamr], focused on Web Developer. I love building innovative projects and continuously learning new technologies.
 
 ---
 
@@ -36,48 +36,24 @@ I'm a passionate developer from Myanamr], focused on [Web Developer]. I love bui
 
 ---
 
-## 🔭 What I'm Working On
-
-- **[Your Project Name]**: Brief description of your project.
-- **Learning**: I'm currently diving into **[Technology or Language]**.
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact&theme=radical)
-
----
-
 ## 🚀 Projects
 
 Here are some of my notable projects:
 
-- [**Your Project Name**](https://github.com/your-username/your-project): A brief description of what this project does.
-- [**Another Project**](https://github.com/your-username/another-project): A brief description of what this project does.
-
----
-
-## 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-Check out [my blog](https://yourblog.com) for more posts.
+- [**Approval App**]([(https://github.com/Mohts/workflow)]): Approval and E-signature.
+- [**Tech_X_App**]([https://github.com/htetthu-Xz/Tech_X_App]): Learning Platform.
+- [**Easy Pay**]([https://github.com/htetthu-Xz/EasyPay]): Payment Platform.
+- [**Trofy**]([https://github.com/htetthu-Xz/e-comm-pj]): Markentplace Management.
+- [**Vue Movie App**]([https://github.com/htetthu-Xz/movies-store-app]): Movie App PLatform.
+- [**Car Rental**]([[https://github.com/htetthu-Xz/movies-store-app](https://github.com/Kohtet77/CAR_RENTAL_MANAGEMENT_SYSTEM)]): Car Rental Managemant.
+- [**Edu Vista**]([https://github.com/htetthu-Xz/movies-store-app](https://github.com/Kohtet77/CAR_RENTAL_MANAGEMENT_SYSTEM)]): School Management.
 
 ---
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- **Twitter**: [your-twitter](https://twitter.com/your-twitter)
-- **Website**: [your-website](https://www.your-website.com)
-- **Email**: [your-email@gmail.com]
+- **LinkedIn**: [Htet Aung Kyaw](https://www.linkedin.com/in/htetthu-xz/)
+- **Email**: [dev.htetaungkyaw@gmail.com]
 
 ---
 
