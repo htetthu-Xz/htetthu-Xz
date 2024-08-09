@@ -53,7 +53,7 @@ Here are some of my notable projects:
 ## 📫 Connect with Me
 
 - **LinkedIn**: [Htet Aung Kyaw](https://www.linkedin.com/in/htetthu-xz/)
-- **Email**: [dev.htetaungkyaw@gmail.com]
+- **Email**: dev.htetaungkyaw@gmail.com
 
 ---
 
