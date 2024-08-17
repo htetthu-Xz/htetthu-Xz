@@ -1,6 +1,6 @@
 # Hi, I'm Htet Aung Kyaw 👋
 
-I'm a passionate developer from Myanamr], focused on Web Developer. I love building innovative projects and continuously learning new technologies.
+I'm a passionate developer from Myanamr, focused on Web Developer. I love building innovative projects and continuously learning new technologies.
 
 ---
 
