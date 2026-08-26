@@ -49,6 +49,7 @@ Final-year Computer Science student at the University of Computer Studies, Hinth
 **Tools**
 ![Git](https://img.shields.io/badge/Git-07090c?style=flat-square&logo=git&logoColor=22d3ee)
 ![Linux](https://img.shields.io/badge/Linux-07090c?style=flat-square&logo=linux&logoColor=22d3ee)
+
 ---
 ## `03` Featured projects
 ### Digital Signature & Approval
