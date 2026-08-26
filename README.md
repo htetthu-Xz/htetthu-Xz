@@ -98,5 +98,5 @@ Open to a Full-Stack Developer opportunities. Email is the fastest way to reach 
 | Phone | [09957054088](tel:+959957054088) | Yangon, Myanmar |
 | GitHub | [github.com/htetthu-Xz](https://github.com/htetthu-Xz) | Code and repositories |
 | LinkedIn | [linkedin.com/in/htetthu-xz](https://www.linkedin.com/in/htetthu-xz/) | Professional profile |
-| Website | [HtetAungKyaw-Porifolio](https://www.devhtetaungkyaw.netlify.app) | Professional Web profile |
+| Website | [HtetAungKyaw-Porifolio](https://devhtetaungkyaw.netlify.app) | Professional Web profile |
 © 2026 Htet Aung Kyaw. All rights reserved.
