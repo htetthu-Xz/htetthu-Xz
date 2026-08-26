@@ -28,6 +28,7 @@ Final-year Computer Science student at the University of Computer Studies, Hinth
 ![JavaScript](https://img.shields.io/badge/JavaScript-07090c?style=flat-square&logo=javascript&logoColor=22d3ee)
 ![MySQL](https://img.shields.io/badge/MySQL-07090c?style=flat-square&logo=mysql&logoColor=22d3ee)
 |
+
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-07090c?style=flat-square&logo=html5&logoColor=22d3ee)
 ![CSS3](https://img.shields.io/badge/CSS3-07090c?style=flat-square&logo=css&logoColor=22d3ee)
@@ -37,6 +38,7 @@ Final-year Computer Science student at the University of Computer Studies, Hinth
 ![Vite](https://img.shields.io/badge/Vite-07090c?style=flat-square&logo=vite&logoColor=22d3ee)
 ![Axios](https://img.shields.io/badge/Axios-07090c?style=flat-square&logo=axios&logoColor=22d3ee)
 |
+
 **Backend / Architecture**
 ![REST API](https://img.shields.io/badge/REST%20API-07090c?style=flat-square&logoColor=22d3ee)
 ![MVC](https://img.shields.io/badge/MVC-07090c?style=flat-square&logoColor=22d3ee)
