@@ -72,20 +72,10 @@ Learning, assignment and freelance works. These are not production systems.
 | Material Inventory Checker | [GitHub](https://github.com/htetthu-Xz/materialhub) |
 ---
 ## `04` Experience
-**Junior Developer**  
-Enrich Insights Consulting Services Co., Ltd  
-`Dec 2023 – Apr 2025`
-Contributed to the development of a company approval management application, focusing primarily on Laravel backend development while also supporting frontend UI implementation.
-HTML · CSS · JavaScript · jQuery · Bootstrap · Tailwind CSS · PHP · Laravel · Vite · MySQL · API
-**Freelance Software Developer**  
-Freelance  
-`Apr 2025 – Present`
-Independently developed full-stack solutions for freelance client work and academic projects, with hands-on experience in Vue.js alongside backend development.
-Laravel API · Vue 3 · Pinia · Sanctum · Tailwind CSS · MySQL
-**Assistant Network Engineer**  
-Myanmar Net  
-`Feb 2022 – May 2022`
-Fiber installation engineer for Myanmar Net, responsible for installing and maintaining fiber optic networks.
+| Period | Role |
+| --- | --- |
+| <sub>Dec 2023 – Apr 2025</sub> | <sub>**Junior Developer** · Enrich Insights Consulting Services Co., Ltd<br>Contributed to the development of a company approval management application, focusing primarily on Laravel backend development while also supporting frontend UI implementation.<br>HTML · CSS · JavaScript · jQuery · Bootstrap · Tailwind CSS · PHP · Laravel · Vite · MySQL · API</sub> |
+| <sub>Apr 2025 – Present</sub> | <sub>**Freelance Software Developer** · Freelance<br>Independently developed full-stack solutions for freelance client work and academic projects, with hands-on experience in Vue.js alongside backend development.<br>Laravel API · Vue 3 · Pinia · Sanctum · Tailwind CSS · MySQL</sub> |
 ---
 ## `05` Education
 **Bachelor of Computer Science**  
