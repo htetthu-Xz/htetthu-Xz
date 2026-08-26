@@ -27,6 +27,7 @@ Final-year Computer Science student at the University of Computer Studies, Hinth
 ![PHP](https://img.shields.io/badge/PHP-07090c?style=flat-square&logo=php&logoColor=22d3ee)
 ![JavaScript](https://img.shields.io/badge/JavaScript-07090c?style=flat-square&logo=javascript&logoColor=22d3ee)
 ![MySQL](https://img.shields.io/badge/MySQL-07090c?style=flat-square&logo=mysql&logoColor=22d3ee)
+
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-07090c?style=flat-square&logo=html5&logoColor=22d3ee)
 ![CSS3](https://img.shields.io/badge/CSS3-07090c?style=flat-square&logo=css&logoColor=22d3ee)
@@ -40,6 +41,7 @@ Final-year Computer Science student at the University of Computer Studies, Hinth
 ![MVC](https://img.shields.io/badge/MVC-07090c?style=flat-square&logoColor=22d3ee)
 ![OOP](https://img.shields.io/badge/OOP-07090c?style=flat-square&logoColor=22d3ee)
 ![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-07090c?style=flat-square&logo=laravel&logoColor=22d3ee)
+
 **Tools**
 ![Git](https://img.shields.io/badge/Git-07090c?style=flat-square&logo=git&logoColor=22d3ee)
 ![Linux](https://img.shields.io/badge/Linux-07090c?style=flat-square&logo=linux&logoColor=22d3ee)
